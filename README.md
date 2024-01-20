@@ -1,1 +1,1 @@
-# HomepageNetflix-task2
+simple web development using HTML,CSS
